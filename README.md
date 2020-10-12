@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="images/logo.png" />
+    <img alt="Happy" title="Happy" src="public/images/logo.png" />
 </h1>
 
 ## :computer: Projeto
