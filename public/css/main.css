@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -10,8 +11,8 @@ body {
 }
 
 :root {
-    font-size: 62.5%;
-  }
+    font-size: 55%;
+}
 
 body,
 input,
